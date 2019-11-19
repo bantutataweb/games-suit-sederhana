@@ -1,4 +1,6 @@
 <!------------------------------ Geraldine Firdaus ------------------------------>
+<!---- https://web.facebook.com/lampungprov.go.id ------>
+<!---- https://twitter.com/Firdausid_ ---->
 
 <html>
     <head>
